@@ -6,5 +6,6 @@ from turtle import *
 write('Поздравляю!')
 
 # Picture
+circle(30)
 # Mark
 done()
