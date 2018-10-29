@@ -7,6 +7,7 @@ goto(100,100)
 
 
 # Picture
+circle(30)
 # Mark
 circle(200)
 done()
